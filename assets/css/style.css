@@ -401,7 +401,7 @@ img {
 /* ============ ABOUT ========= */
 
 .about__img {
-  width: 200px;
+  width: 220px;
   border-radius: 0.5rem;
   justify-self: center;
   align-self: center;
@@ -534,8 +534,8 @@ img {
 .skills__figma {
   width: 70%;
 }
-.skills__skectch {
-  width: 70%;
+.skills__sketch {
+  width: 87%;
 }
 .skills__photoshop {
   width: 95%;
@@ -814,7 +814,7 @@ img {
 }
 
 .project__img {
-  width: 232px;
+  width: 300px;
   justify-self: center;
 }
 
