@@ -511,13 +511,13 @@ img {
   width: 90%;
 }
 .skills__css {
-  width: 90%;
+  width: 80%;
 }
 .skills__js {
-  width: 90%;
+  width: 70%;
 }
 .skills__react {
-  width: 90%;
+  width: 75%;
 }
 .skills__php {
   width: 70%;
@@ -934,7 +934,7 @@ img {
 
 .footer__links {
   display: flex;
-  color: var(--first-color-lighter);
+  flex-direction: column;
   row-gap: 1.5rem;
 }
 
